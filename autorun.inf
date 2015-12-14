@@ -1,0 +1,3 @@
+[autorun]
+open=Explorer.exe .\auto\index.html
+icon=pclanak.ico
